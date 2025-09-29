@@ -1,0 +1,21 @@
+{
+  "name": "my-learning",
+  "version": "1.0.0",
+  "description": "A personal repository to practice and document my Git journey. Contains exercises, examples, and workflows to understand version control, branching, merging, and collaboration using Git. Ideal for tracking progress and revisiting Git concepts anytime.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keerthik22-cmd/My-Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keerthik22-cmd/My-Learning/issues"
+  },
+  "homepage": "https://github.com/keerthik22-cmd/My-Learning#readme"
+}
